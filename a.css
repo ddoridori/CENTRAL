@@ -1,10 +1,9 @@
 .insta-container{
     border: 2px solid black;
     width: 1000px;
-    height: 1000px;
+    height: 1450px;
     background-color: #fafafa;
     margin: 0px auto;
-
 }
 /* 네브바 */
 .nav-bar{
@@ -13,30 +12,28 @@
 }
 
 .insta-logo{
-    width: 100px;
+    width: 120px;
     height : 75px;
-    margin-left : 1px;
+    margin-left : 2px;
 }
 
 .insta-search {
     position: relative;
-    left: 70px;
-    bottom: 20px;
+    left: 50px;
+    bottom: 30px;
     border: 1px solid gray;
     border-radius: 5px;
     text-align: center;
-
+    margin: 0px auto;
 }
 
 .account {
     float: right;
-    margin : 15px;
+    margin : 0px;
 }
 
 .login, .signup{
-
     display: inline-block;
-
 }
 
 .login {
@@ -65,8 +62,8 @@ color: skyblue;
 
 .user-img{
     width: 200px;
-    height:150px;
-    margin-left: 10px;
+    height:180px;
+    margin-left: 20px;
     object-fit: cover;
 }
 
